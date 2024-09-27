@@ -76,7 +76,7 @@ const TypingPractice = () => {
     return () => {
       window.removeEventListener("keydown", handleKeyDown);
     };
-  }, [currentIndex, text, startTime]);
+  }, [currentIndex, text, startTime, wordsWithSpaces]);
 
   return (
     <div className="min-h-screen">

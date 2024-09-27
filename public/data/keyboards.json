@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "K70 RGB MK.2",
+        "brand": "Corsair",
+        "price": 149.99,
+        "switchType": "Cherry MX Red",
+        "rating": 4.8,
+        "description": "The Corsair K70 RGB MK.2 is a premium mechanical gaming keyboard built to last. It features Cherry MX Red key switches, dynamic per-key RGB lighting, and dedicated media controls. Ideal for gamers who need fast response times.",
+        "image": "https://assets.corsair.com/image/upload/c_pad,q_85,h_1100,w_1100,f_auto/products/Gaming-Keyboards/CH-9109012-NA/Gallery/K70_RGB_MK2_01.webp"
+    },
+    {
+        "id": 2,
+        "name": "Huntsman V2",
+        "brand": "Razer",
+        "price": 199.99,
+        "switchType": "Optical Switch",
+        "rating": 4.7,
+        "description": "The Razer Huntsman V2 uses advanced optical switches for faster actuation and unparalleled gaming performance. Its key stabilization and build quality make it a perfect choice for esports enthusiasts.",
+        "image": "https://assets2.razerzone.com/images/pnx.assets/1ab71e5ea9f9b8db8fc014cf8d767732/razer-huntsman-v2-refresh-hero-mobile.webp"
+    },
+    {
+        "id": 3,
+        "name": "G Pro X",
+        "brand": "Logitech",
+        "price": 129.99,
+        "switchType": "GX Blue",
+        "rating": 4.5,
+        "description": "Logitech’s G Pro X features swappable mechanical switches, offering customizability for a tailored gaming experience. Built for competitive play with a compact design and detachable cable.",
+        "image": "https://www.techlandbd.com/image/catalog/Keyboard/Logitech/pro-x-gaming-keyboard/pro-x-gaming-keyboard-01.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Ducky One 2 Mini",
+        "brand": "Ducky",
+        "price": 109.99,
+        "switchType": "Cherry MX Brown",
+        "rating": 4.9,
+        "description": "The Ducky One 2 Mini is a 60% mechanical keyboard with a sleek design and customizable RGB lighting. It’s equipped with Cherry MX Brown switches, making it a perfect choice for both typing and gaming.",
+        "image": "https://i.rtings.com/assets/products/yKOa8H65/ducky-one-2-mini-v2/design-medium.jpg?format=auto"
+    },
+    {
+        "id": 5,
+        "name": "Anne Pro 2",
+        "brand": "Obinslab",
+        "price": 89.99,
+        "switchType": "Gateron Red",
+        "rating": 4.6,
+        "description": "The Anne Pro 2 is a wireless mechanical keyboard known for its compact 60% layout and versatile Bluetooth connectivity. Featuring Gateron Red switches, it provides a smooth and quiet typing experience.",
+        "image": "https://mechanicalkeyboards.com/cdn/shop/files/2837-F6VXN-Anne-Pro-2-White.jpg?v=1707268567&width=1024"
+    },
+    {
+        "id": 6,
+        "name": "SteelSeries Apex Pro",
+        "brand": "SteelSeries",
+        "price": 199.99,
+        "switchType": "OmniPoint Adjustable",
+        "rating": 4.9,
+        "description": "The Apex Pro is equipped with revolutionary OmniPoint adjustable switches, allowing you to customize actuation points for each key. It is a high-performance keyboard with unmatched durability and RGB lighting.",
+        "image": "https://media.steelseriescdn.com/thumbs/filer_public/59/a6/59a6e950-c857-423f-8c9b-ea0ef63b9ac5/apex_pro_img_buy_01.png__1920x1080_crop-fit_optimize_subsampling-2.png"
+    }
+]

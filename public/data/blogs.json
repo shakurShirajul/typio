@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "image": "https://i0.wp.com/hirosarts.com/wp-content/uploads/2022/04/keyboard-switches-title-image.jpg?resize=644%2C430&ssl=1",
+        "title": "The Evolution of Mechanical Keyboards: A Deep Dive",
+        "date": "2024-09-24",
+        "content": "Mechanical keyboards have come a long way from their origins. In the early days, they were primarily used for professional workstations and gaming, but today they have become mainstream for enthusiasts and typists alike. The main appeal of mechanical keyboards is their durability and the tactile feedback they provide. This blog explores the key switches, from Cherry MX to Gateron and Kailh, and how each offers a different typing experience. We’ll also discuss the rise of custom mechanical keyboards, where users can modify keycaps, switches, and even the layout to suit their preferences. With the rise of hot-swappable boards, enthusiasts no longer need soldering skills to build their perfect keyboard."
+    },
+    {
+        "id": 2,
+        "image": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/c2a03db6.jpg?q=50&fit=crop&w=1140&h=&dpr=1.5",
+        "title": "Membrane vs Mechanical Keyboards: Which Is Right for You?",
+        "date": "2024-09-22",
+        "content": "Choosing between a membrane and a mechanical keyboard can be confusing. Membrane keyboards are cheaper and quieter, but they often lack the tactile feedback that many users enjoy. Mechanical keyboards, on the other hand, offer a wide range of key switches tailored to different preferences, from silent and soft to loud and clicky. This blog breaks down the key differences between membrane and mechanical keyboards, comparing their lifespan, customization options, and overall typing experience. We’ll also cover the latest innovations in each category, such as hybrid models that combine the best of both worlds."
+    },
+    {
+        "id": 3,
+        "image": "https://res.cloudinary.com/kineticlabs/image/upload/q_auto/c_fit,w_1000/f_auto/v1/api-images/blog/3-28-23-mechanical-keyboards-vs-membrane/octopus-2-DSC06172_kvs9rz_ubfbmf",
+        "title": "How to Choose the Perfect Keyboard Layout for Productivity",
+        "date": "2024-09-20",
+        "content": "There are various keyboard layouts available today, each designed for different typing styles and use cases. The traditional QWERTY layout is the most common, but alternatives like Dvorak and Colemak claim to offer better ergonomics and efficiency. In this blog, we explore the pros and cons of each layout, helping you decide which one is best suited for your work style. We’ll also discuss how split keyboards, ergonomic designs, and custom key mappings can boost productivity by reducing strain and increasing typing speed. Finally, we’ll walk through tips for transitioning between layouts smoothly, without losing productivity."
+    },
+    {
+        "id": 4,
+        "image": "https://www.gloriousgaming.com/cdn/shop/articles/a197215820378fb9e3234c192671b636.jpg?v=1663354779",
+        "title": "The Impact of Key Switches on Gaming Performance",
+        "date": "2024-09-18",
+        "content": "For gamers, the choice of key switch can make or break their gaming experience. Whether you’re playing fast-paced FPS games or strategy games, the right key switch can improve reaction time and reduce fatigue. In this blog, we take a look at different types of key switches specifically tailored for gaming, such as linear, tactile, and clicky switches. We’ll cover how switches like Cherry MX Red, Razer’s proprietary switches, and Logitech’s Romer-G fare in real-world gaming scenarios. We also discuss actuation force, debounce time, and other technical aspects that impact gaming performance."
+    },
+    {
+        "id": 5,
+        "image": "https://i.etsystatic.com/26969480/r/il/61d14d/3477294816/il_1588xN.3477294816_afuz.jpg",
+        "title": "Custom Keycaps: A Guide to Personalizing Your Keyboard",
+        "date": "2024-09-16",
+        "content": "One of the most exciting aspects of mechanical keyboards is the ability to swap out keycaps. Custom keycaps can change not only the look of your keyboard but also the feel of each keypress. In this detailed guide, we explain the different materials used in keycaps—such as ABS, PBT, and POM—and how they affect durability and texture. We also look into various keycap profiles like SA, DSA, and Cherry, explaining how each profile influences typing comfort. Furthermore, we dive into the world of artisan keycaps, where artists handcraft unique keycaps that turn your keyboard into a functional piece of art."
+    },
+    {
+        "id": 6,
+        "image": "https://sahandtherapy.com.au/wp-content/uploads/2023/09/Ergonomic-Solutions-for-Optimal-Workstation-Setup-Enhancing-Comfort-and-Reducing-Strain-on-Arms-and-Hands.jpg",
+        "title": "Ergonomic Keyboards: Reducing Strain, Increasing Comfort",
+        "date": "2024-09-14",
+        "content": "Typing for long hours can lead to discomfort or even injury without the right ergonomic setup. Ergonomic keyboards are designed to reduce strain on your wrists and fingers by promoting a more natural typing position. In this blog, we discuss the various ergonomic keyboard designs available, such as split keyboards, tented keyboards, and keyboards with wrist rests. We also cover the science behind ergonomic typing and how it can prevent repetitive strain injuries (RSIs). Additionally, we provide tips on proper typing posture and setting up your workstation to minimize strain."
+    }
+]

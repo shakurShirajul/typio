@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Navbar from "../Shared/Navbar";
 
 // import HeroVideo from '@/assets/video/HeroVideo.mp4'
@@ -23,12 +24,12 @@ const Hero = () => {
             alt=""
             className="h-full w-full bg-cover"
           />
-          <div className="absolute h-full w-full top-0 flex flex-col justify-center items-center text-white">
+          <div className="absolute h-full space-y-5 w-full top-0 flex flex-col justify-center items-center text-white">
             <h1 className="text-6xl font-bold">Test your typing skills!</h1>
-            <p className="text-lg lg:text-2xl mt-4">
+            {/* <p className="text-lg lg:text-2xl mt-4">
               Discover amazing products and services.
-            </p>
-            <button className="btn">START</button>
+            </p> */}
+            <Link href="/practice"><button className="btn font-semibold">START</button></Link>
           </div>
         </div>
       </div>

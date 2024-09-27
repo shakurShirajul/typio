@@ -6,8 +6,8 @@ import { useEffect, useState } from "react";
 
 const TypingPractice = () => {
   const [text] = useState(
-    // "one day while walking deeper into the forest than ever before jake stumbled upon a hidden path it was covered in leaves and seemed like no one had walked on it for years curious he followed the path as it wound deeper and deeper into the woods the trees grew thicker and the sunlight barely touched the ground but jake wasnt scared he was excited"
-    "asdf adsf asd"
+    "one day while walking deeper into the forest than ever before jake stumbled upon a hidden path it was covered in leaves and seemed like no one had walked on it for years curious he followed the path as it wound"
+    // deeper and deeper into the woods the trees grew thicker and the sunlight barely touched the ground but jake wasnt scared he was excited"
   ); // Text to be typed
 
   const [currentIndex, setCurrentIndex] = useState(0); // Current index of text

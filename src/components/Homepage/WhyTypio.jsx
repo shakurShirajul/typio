@@ -9,7 +9,7 @@ const WhyTypio = () => {
                 Why typio?
               </h1>
               <p className="text-2xl text-center font-medium">
-                Whether you're a beginner looking to improve your typing
+                Whether youre a beginner looking to improve your typing
                 accuracy or a seasoned pro aiming to boost your speed, our
                 platform is designed to help you grow at your own pace.
               </p>
